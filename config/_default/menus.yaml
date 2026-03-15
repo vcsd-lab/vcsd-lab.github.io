@@ -3,9 +3,31 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 main:
+  - name: About
+    url: /about/
+    weight: 10
+  - name: Members
+    weight: 20
+
   - name: Professor
+    parent: Members
     url: /professor/
-    weight: 30
+  - name: Students
+    parent: Members
+    url: /student/
+  - name: Alumni
+    parent: Members
+    url: /alumni/
+
   - name: Research
-    url: /research/
     weight: 30
+
+  - name: introduction
+    parent: Research
+    url: /research/
+  - name: Publications
+    parent: Research
+    url: /publications/
+
+
+
