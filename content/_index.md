@@ -8,9 +8,13 @@ sections:
     content:
       title: Video Communication System Design Lab
       text: Hardware–Software Co-Design for Edge Intelligence Systems
-      primary_action:
-        text: Research
-        url: /research/
+
+    design:
+      background:
+        image:
+          filename: chimei-building.jpg
+          filters:
+            brightness: 0.6
 
   - block: collection
     content:
