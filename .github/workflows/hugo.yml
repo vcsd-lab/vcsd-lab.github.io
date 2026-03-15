@@ -24,6 +24,14 @@ jobs:
           hugo-version: '0.152.2'
           extended: true
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Node dependencies
+        run: npm install
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
@@ -44,6 +52,6 @@ jobs:
     needs: build
 
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
