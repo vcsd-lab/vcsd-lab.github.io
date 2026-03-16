@@ -2,6 +2,11 @@
 title: VCSDL Lab
 type: landing
 
+cascade:
+  share: false
+  commentable: false
+  editable: false
+
 sections:
 
   - block: hero
