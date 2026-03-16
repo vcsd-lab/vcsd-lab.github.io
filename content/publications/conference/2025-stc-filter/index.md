@@ -15,16 +15,7 @@ tags: ["conference"]
 publication: "2025 IEEE Biomedical Circuits and Systems Conference (BioCAS)"
 
 abstract: |
-    To accelerate time consuming process for DNA alignment we propose a pre-
-    mapping filtering method, called the Same Token Count (STC), that leverages
-    the high parallelism of In-Memory Search (IMS) technology. We directly 
-    identify all reads associated with reference positions containing short 
-    variations. STC operates in two stages: offline and processing. In the 
-    offline stage, read sequences are encoded into bitvectors based on k-mers;
-    in the processing stage, these bitvectors are efficiently matched by IMS to
-    assess sequence similarity. This method achieves a speed up of $$150×$$ 
-    compared to traditional CPU-based methods for detecting a single short 
-    variation.
+    To accelerate time consuming process for DNA alignment we propose a pre-mapping filtering method, called the Same Token Count (STC), that leverages the high parallelism of In-Memory Search (IMS) technology. We directly identify all reads associated with reference positions containing short variations. STC operates in two stages: offline and processing. In the offline stage, read sequences are encoded into bitvectors based on k-mers; in the processing stage, these bitvectors are efficiently matched by IMS to assess sequence similarity. This method achieves a speed up of 150× compared to traditional CPU-based methods for detecting a single short variation.
   
 
 links:
