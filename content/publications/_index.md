@@ -32,6 +32,7 @@ sections:
 
   - block: collection
     content:
+      count: 0
       sort_by: date
       sort_ascending: false
     design:
