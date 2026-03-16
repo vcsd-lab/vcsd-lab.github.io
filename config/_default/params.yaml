@@ -275,6 +275,10 @@ hugoblox:
       opacity: 1.0
     export_logs: true
 
+
+  demo:
+    enable: false
+
   # ────────────────────────────────────────────────────────────────────────────
   # PRO
   # Pro subscription features and affiliate program
