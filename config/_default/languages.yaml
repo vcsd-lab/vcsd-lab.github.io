@@ -53,8 +53,16 @@ zh-hant:
         weight: 23
 
       - name: 研究
-        url: /research/
         weight: 30
+
+      - name: 介紹
+        parent: 研究
+        url: /research/
+        weight: 10
+      - name: 近期發表研究
+        parent: 研究
+        url: /publications/
+        weight: 20
 
       - name: 聯絡我們
         url: /contact/
@@ -90,8 +98,16 @@ en:
         weight: 23
 
       - name: Research
-        url: /research/
         weight: 30
+
+      - name: introduction
+        parent: Research
+        url: /research/
+        weight: 10
+      - name: Publications
+        parent: Research
+        url: /publications/
+        weight: 20
 
       - name: Contact Us
         url: /contact/
