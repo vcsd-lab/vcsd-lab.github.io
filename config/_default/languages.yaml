@@ -3,9 +3,9 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
-  title: VCSDL
+# en:
+#  languageCode: en-us
+#  title: VCSDL
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -21,3 +21,79 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+zh-hant:
+  languageCode: zh-tw
+  title: 影音通訊系統設計實驗室
+  languageName: 繁體中文
+  weight: 1
+  params:
+    date_format: "2006年1月2日"
+  menu:
+    main:
+      - name: 關於我們
+        url: /about/
+        weight: 10
+
+      - name: 成員
+        weight: 20
+
+      - name: 指導教授
+        parent: 成員
+        url: /professor/
+        weight: 21
+
+      - name: 實驗室學生
+        parent: 成員
+        url: /students/
+        weight: 22
+
+      - name: 畢業校友
+        parent: 成員
+        url: /alumni/
+        weight: 23
+
+      - name: 研究
+        url: /research/
+        weight: 30
+
+      - name: 聯絡我們
+        url: /contact/
+        weight: 40
+
+en:
+  languageCode: en-us
+  title: VCSDL
+  languageName: English
+  weight: 2
+  menu:
+    main:
+      - name: About
+        url: /about/
+        weight: 10
+
+      - name: Members
+        weight: 20
+
+      - name: Professor
+        parent: Members
+        url: /professor/
+        weight: 21
+
+      - name: Students
+        parent: Members
+        url: /students/
+        weight: 22
+
+      - name: Alumni
+        parent: Members
+        url: /alumni/
+        weight: 23
+
+      - name: Research
+        url: /research/
+        weight: 30
+
+      - name: Contact Us
+        url: /contact/
+        weight: 40
+
