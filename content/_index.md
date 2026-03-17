@@ -22,7 +22,7 @@ sections:
 
   - block: collection
     content:
-      title: 近期論文發表
+      title: 近期發表研究
       filters:
         folders:
           - publications
