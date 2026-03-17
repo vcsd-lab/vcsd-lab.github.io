@@ -1,46 +1,42 @@
 ---
-title: Research
+title: 研究方向
 type: landing
 
 sections:
-# icon using Heroicons
-
   - block: features
     content:
-      title: Research Areas
-      text: We focus on edge circuit, system, and algorithm design and optimization.
+      title: 研究領域
+      text: 我們專注於邊緣電路、系統與演算法之設計與最佳化。
 
       items:
-        - name: Edge AI Accelerator
+        - name: 邊緣 AI 加速器
           icon: cpu-chip
           description: |
-            Efficient circuit architectures for low-power AI inference on edge devices.
+            針對邊緣裝置低功耗 AI 推論所設計的高效率電路架構。
 
-            
-            [Explore →](/research/edge-ai/)
+            [了解更多 →](/research/edge-ai/)
 
-        - name: AI Compression
+        - name: AI 壓縮
           icon: chart-bar
           description: |
-            Model compression techniques and system optimizations for deploying AI models on resource-constrained edge devices.
+            針對資源受限之邊緣裝置部署 AI 模型所發展的模型壓縮技術與系統最佳化方法。
 
-            [Explore →](/research/ai-compress/)
+            [了解更多 →](/research/ai-compress/)
 
-        - name: Entropy Codec
+        - name: 熵編碼
           icon: circle-stack
           description: |
-            Hardware-friendly entropy coding algorithms and accelerator architectures for efficient data compression.
+            適合硬體實作的熵編碼演算法與加速器架構，用於高效率資料壓縮。
 
-            [Explore →](/research/codec/)
+            [了解更多 →](/research/codec/)
 
-        - name: DNA Alignment
+        - name: DNA 序列比對
           icon: finger-print
           description: |
-            Hardware–software co-design techniques for accelerating genomic sequence alignment.
+            用於加速基因序列比對之軟硬體共同設計技術。
 
-            [Explore →](/research/dna/)
+            [了解更多 →](/research/dna/)
 
     design:
       columns: 2
 ---
-

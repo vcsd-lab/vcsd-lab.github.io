@@ -1,6 +1,6 @@
 ---
-title: Chih-Hung Kuo
-summary: Professor, Department of Electrical Engineering, National Cheng Kung University
+title: 郭致宏
+summary: 國立成功大學電機工程學系 副教授
 date: 2026
 ---
 
@@ -8,21 +8,20 @@ date: 2026
 
 <div style="flex:0 0 220px;">
 
-<img src="avatar.jpg" width="220">
+<img src="/uploads/professor-avatar.jpg" width="220">
 
 </div>
 
 <div>
 
-## Prof. Chih-Hung Kuo (郭致宏)
+## 郭致宏 教授 (Chih-Hung Kuo)
 
-Professor  
-Department of Electrical Engineering  
-National Cheng Kung University, Taiwan  
+教授  
+國立成功大學 電機工程學系  
 
 📧 chkuo@ee.ncku.edu.tw  
 ☎ +886-6-275-7575 ext.62326  
-📍 Chimei Building Room 95513  
+📍 奇美樓 95513 室  
 
 </div>
 
@@ -30,51 +29,51 @@ National Cheng Kung University, Taiwan
 
 ---
 
-## Biography
+## 簡介
 
-Prof. Chih-Hung Kuo received the B.S. and M.S. degrees in Electrical Engineering from National Tsing Hua University in 1992 and 1994, respectively, and the Ph.D. degree in Electrical Engineering from the University of Southern California in 2003.
+郭致宏教授於 1992 年及 1994 年分別取得國立清華大學電機工程學系學士與碩士學位，並於 2003 年取得美國南加州大學電機工程博士學位。
 
-From 2004 to 2010, he served as an Assistant Professor at National Cheng Kung University. Since 2010, he has been an Associate Professor at the Department of Electrical Engineering at NCKU.
+2004 年至 2010 年間，郭教授於國立成功大學擔任助理教授；自 2010 年起，擔任國立成功大學電機工程學系副教授。
 
-His research focuses on digital video/audio compression, deep learning acceleration, and hardware–software co-design.
-
----
-
-## Research Interests
-
-- Systolic-architecture Edge AI accelerators  
-- Deep learning model compression and deployment  
-- Data compression  
-- Hardware–software co-design with ESL  
-- Genomic computing  
-- Biomedical image deep learning algorithms  
+其研究方向涵蓋數位影音壓縮、深度學習加速，以及硬體與軟體共同設計。
 
 ---
 
-## Education
+## 研究領域
 
-Ph.D., Electrical Engineering  
-University of Southern California (2003)
-
-M.S., Electrical Engineering  
-National Tsing Hua University (1994)
-
-B.S., Electrical Engineering  
-National Tsing Hua University (1992)
+- 邊緣 AI 脈動式架構加速器  
+- 深度學習模型壓縮與部署  
+- 資料壓縮  
+- 以 ESL 為基礎之軟硬體共同設計  
+- 基因體運算  
+- 生醫影像深度學習演算法  
 
 ---
 
-## Experience
+## 學歷
 
-Associate Professor  
-National Cheng Kung University (2010–present)
+博士，電機工程  
+美國南加州大學（2003）
 
-Assistant Professor  
-National Cheng Kung University (2004–2010)
+碩士，電機工程  
+國立清華大學（1994）
 
-Winbond Electronics Corporation (2004)
+學士，電機工程  
+國立清華大學（1992）
 
-Research Assistant  
-University of Southern California (1999–2003)
+---
 
-Industrial Technology Research Institute (1996–1998)
+## 經歷
+
+副教授  
+國立成功大學（2010–迄今）
+
+助理教授  
+國立成功大學（2004–2010）
+
+旺宏電子（2004）
+
+研究助理  
+美國南加州大學（1999–2003）
+
+工業技術研究院（1996–1998）

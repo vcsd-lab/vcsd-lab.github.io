@@ -1,8 +1,9 @@
 ---
-title: Students
+title: 實驗室學生
 ---
 
-## First Year
+# 碩士生
+## 一年級
 
 <div style="columns:2;column-gap:60px;">
 
@@ -32,7 +33,7 @@ title: Students
 
 ---
 
-## Second Year
+## 二年級
 
 <div style="columns:2;column-gap:60px;">
 
@@ -65,7 +66,7 @@ title: Students
 
 ---
 
-## Third Year
+## 三年級
 
 <div style="columns:2;column-gap:60px;">
 
@@ -98,7 +99,7 @@ title: Students
 
 ---
 
-## Fourth Year
+## 四年級
 
 **王偉力**  
 交通大學應用數學系

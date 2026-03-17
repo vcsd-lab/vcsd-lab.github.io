@@ -7,11 +7,12 @@ cascade:
   commentable: false
   editable: false
 
+
 sections:
   - block: hero
     content:
-      title: 影音通訊系統設計實驗室
-      text: 邊緣智慧系統之軟硬體共同設計
+      title: Video and Communication System Design Lab
+      text: Hardware-Software Co-Design for Edge Intelligence Systems
     design:
       css_class: vcsdl-hero
       background:
@@ -20,13 +21,15 @@ sections:
           filters:
             brightness: 0.75
 
+
   - block: collection
     content:
-      title: 近期論文發表
+      title: Recent Publications
       filters:
         folders:
           - publications
       count: 5
     design:
       view: citation
+
 ---
