@@ -35,6 +35,7 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
+  page: [HTML]
 imaging:
   resampleFilter: lanczos
   quality: 90

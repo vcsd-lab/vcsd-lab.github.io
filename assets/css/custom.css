@@ -12,6 +12,20 @@ article .max-w-prose.print\:hidden > .flex.justify-center {
 }
 */
 
+.vcsdl-hero h1 {
+  color: #fff !important;
+  text-shadow:
+    0 2px 6px rgba(0, 0, 0, 0.35),
+    0 4px 14px rgba(0, 0, 0, 0.18);
+}
+
+.vcsdl-hero p {
+  color: rgba(255, 255, 255, 0.99) !important;
+  text-shadow:
+    0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+
 /* Hide repeated author blocks on single publication pages */
 article .max-w-prose.print\:hidden > .flex.pt-12.pb-4 {
   display: none !important;
@@ -63,7 +77,31 @@ article .max-w-prose.print\:hidden > .flex.justify-center {
 }
 
 /* Pull the publication list upward */
+/*
 #section-collection .mt-16,
 #section-collection .sm\:mt-20 {
   margin-top: -11.0rem !important;
+}
+*/
+
+
+/* below is about publications' format */
+
+/* Publication list readability */
+.pub-list-item.view-citation {
+  font-size: 1.12rem;
+  line-height: 1.6;
+}
+
+.pub-list-item.view-citation .article-metadata {
+  font-size: 1rem;
+}
+
+.pub-list-item.view-citation a.underline {
+  font-size: 1.08rem;
+  font-weight: 500;
+}
+
+.pub-list-item.view-citation .hb-attachment-link-small {
+  font-size: 0.92rem;
 }

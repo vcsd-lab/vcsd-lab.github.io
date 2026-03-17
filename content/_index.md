@@ -7,29 +7,20 @@ cascade:
   commentable: false
   editable: false
 
-sections:
 
+sections:
   - block: hero
     content:
-      title: Video Communication System Design Lab
-      text: Hardware–Software Co-Design for Edge Intelligence Systems
-
+      title: Video and Communication System Design Lab
+      text: Hardware-Software Co-Design for Edge Intelligence Systems
     design:
+      css_class: vcsdl-hero
       background:
         image:
           filename: chimei-building.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.75
 
-  - block: collection
-    content:
-      title: Research Areas
-      filters:
-        folders:
-          - research
-    design:
-      view: card
-      columns: 2
 
   - block: collection
     content:
@@ -38,5 +29,7 @@ sections:
         folders:
           - publications
       count: 5
+    design:
+      view: citation
 
 ---

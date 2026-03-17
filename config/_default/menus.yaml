@@ -12,12 +12,15 @@ main:
   - name: Professor
     parent: Members
     url: /professor/
-  - name: Students
-    parent: Members
-    url: /students/
+    weight: 10
   - name: Alumni
     parent: Members
     url: /alumni/
+    weight: 20
+  - name: Students
+    parent: Members
+    url: /students/
+    weight: 30
 
   - name: Research
     weight: 40
@@ -25,9 +28,11 @@ main:
   - name: introduction
     parent: Research
     url: /research/
+    weight: 10
   - name: Publications
     parent: Research
     url: /publications/
+    weight: 20
 
   - name: Contact Us
     url: /contact/
