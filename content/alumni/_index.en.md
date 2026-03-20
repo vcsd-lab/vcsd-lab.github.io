@@ -13,7 +13,7 @@ title: Alumni
 |洪浩宸|Academic Year 114|Department of Electronic Engineering, National Yunlin University of Science and Technology|Novatek|
 |郭哲睿|Academic Year 114|Department of Electrical Engineering, National Cheng Kung University|Himax|
 |崔哲瑋|Academic Year 114|Department of Systems and Naval Mechatronic Engineering, National Cheng Kung University|MediaTek|
-|黃暐淇|Academic Year 114|Department of Electrical Engineering, National Chung Cheng University|MediaTek|
+|黃暐淇|Academic Year 114|Department of Electrical Engineering, National Chung Cheng University||
 |何俊賢|Academic Year 114|Department of Electrical Engineering, National University of Kaohsiung||
 |黃敦彥|Academic Year 114|Department of Physics, National Tsing Hua University|MediaTek|
 |徐智仁|Academic Year 113|Department of Physics, National Central University|Raydium|
