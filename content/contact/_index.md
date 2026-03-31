@@ -22,9 +22,9 @@ sections:
     content:
       title: 實驗室位置
       text: |
-        **VCSDL Laboratory**  
-        國立成功大學 電機工程學系  
-        奇美樓 5 樓 95515 室  
+        **VCSDL Laboratory**
+        國立成功大學 電機工程學系
+        奇美樓 5 樓 95515 室
         台南市，台灣
 
         本實驗室位於國立成功大學校園內。若您計畫前來參觀，建議事先與我們聯絡，以便協助安排合適的時間。
@@ -33,14 +33,14 @@ sections:
     content:
       title: 聯絡資訊
       text: |
-        **指導教授**  
-        郭致宏 教授  
+        **指導教授**
+        郭致宏 教授
         Email: chkuo@ee.ncku.edu.tw
 
-        **實驗室聯絡窗口**  
-        Email: -
+        **實驗室聯絡窗口**
+        Email: n26141559@gs.ncku.edu.tw
 
-        **網站 / 一般事務聯絡**  
+        **網站 / 一般事務聯絡**
         Email: vacsdl@gmail.com
 
   - block: markdown

@@ -22,10 +22,10 @@ sections:
     content:
       title: Visit Us
       text: |
-        **VCSDL Laboratory**  
-        Department of Computer Science and Information Engineering  
-        National Cheng Kung University  
-        Chemei Building, 5th Floor, Room 95515  
+        **VCSDL Laboratory**
+        Department of Computer Science and Information Engineering
+        National Cheng Kung University
+        Chemei Building, 5th Floor, Room 95515
         Tainan, Taiwan
 
         Our lab is located on the NCKU campus. Visitors are encouraged to contact us in advance before coming, so we can help arrange a suitable time for your visit.
@@ -34,14 +34,14 @@ sections:
     content:
       title: Contact Information
       text: |
-        **Professor**  
-        Prof. Chih-Hung Kuo  
+        **Professor**
+        Prof. Chih-Hung Kuo
         Email: chkuo@ee.ncku.edu.tw
 
-        **Lab Contact**  
-        Email: -
+        **Lab Contact**
+        Email: n26141559@gs.ncku.edu.tw
 
-        **Website / General Inquiry**  
+        **Website / General Inquiry**
         Email: vacsdl@gmail.com
 
   - block: markdown
