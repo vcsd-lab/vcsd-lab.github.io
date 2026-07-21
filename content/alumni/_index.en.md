@@ -21,7 +21,7 @@ title: Alumni
 |黃柏碩|Academic Year 113|Department of Electrical Engineering, National Sun Yat-sen University|Novatek|
 |吳宇祈|Academic Year 113|Department of Electrical Engineering, National Central University|Novatek|
 |余采蓴|Academic Year 112|Department of Electrical Engineering, National Cheng Kung University|MediaTek|
-|鄭子皇|Academic Year 111|Department of Electrical Engineering, National University of Kaohsiung|Novatek|
+|鄭子皇|Academic Year 111|Department of Electrical Engineering, National University of Kaohsiung|NVIDIA Corporation|
 |李昕紘|Academic Year 111|Department of Mechanical Engineering, National Taiwan University|Raydium|
 |蕭丞量|Academic Year 111|Department of Electrical Engineering, National Chung Cheng University|Realtek|
 |陳冠宏|Academic Year 111|Department of Electrical Engineering, National Central University|Novatek|
