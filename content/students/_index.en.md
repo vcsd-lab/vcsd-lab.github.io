@@ -4,6 +4,29 @@ title: Students
 
 # Master’s Students
 
+## Incoming Master's Students
+
+<div style="columns:2;column-gap:60px;">
+
+**盧霈軒**  
+Department of Electrical Engineering, National Central University  
+
+**陳梓銘**  
+Department of Electrical Engineering, National Central University  
+
+**鄭力澤**  
+Department of Electrical Engineering, National Central University  
+
+**黃雅程**  
+Department of Electrical Engineering, National Central University  
+
+**陳彥廷**  
+Department of Electrical Engineering, National Tsing Hua University  
+
+</div>
+
+---
+
 ## First Year
 
 <div style="columns:2;column-gap:60px;">
