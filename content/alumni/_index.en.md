@@ -10,7 +10,7 @@ title: Alumni
 ## Master
 | Name | Academic Year | Previous University | Current Position |
 |-|-|-|-|
-|胡家豪|Academic Year 115|Department of Electronic Engineering, Chung Yuan Christian University|
+|胡家豪|Academic Year 115|Department of Electrical Engineering, Chung Yuan Christian University|
 |林啓璋|Academic Year 115|Department of Electronic Engineering, National Taipei University of Technology|Raydium|
 |陳俊安|Academic Year 115|Department of Electrical Engineering, National Cheng Kung University|Novatek|
 |王偉力|Academic Year 114|Department of Applied Mathematics, National Chiao Tung University|
