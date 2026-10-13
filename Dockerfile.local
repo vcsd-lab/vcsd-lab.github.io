@@ -1,0 +1,29 @@
+# Local development environment for VCSDL Hugo website.
+# Keep HUGO_VERSION and the Node major version aligned with
+# .github/workflows/hugo.yml when updating the deployment toolchain.
+FROM node:20-bookworm
+
+ARG HUGO_VERSION=0.152.2
+ARG TARGETARCH
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+       ca-certificates curl git golang-go \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN set -eux; \
+    case "${TARGETARCH:-amd64}" in \
+      amd64|arm64) ;; \
+      *) echo "Unsupported architecture: ${TARGETARCH}"; exit 1 ;; \
+    esac; \
+    curl --fail --location --retry 3 \
+      "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${TARGETARCH:-amd64}.tar.gz" \
+      --output /tmp/hugo.tar.gz; \
+    tar -xzf /tmp/hugo.tar.gz -C /usr/local/bin hugo; \
+    rm /tmp/hugo.tar.gz; \
+    hugo version
+
+WORKDIR /site
+EXPOSE 1313
+
+CMD ["hugo", "server", "--bind", "0.0.0.0", "--disableFastRender"]
